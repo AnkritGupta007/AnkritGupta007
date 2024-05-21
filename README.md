@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkritGupta007: My name is Ankrit Gupta.
 - 👀 I’m interested in full-stack software development and research
-- 🌱 I’m currently learning aws, react, and .net core
+- 🌱 I’m currently working as a senior software developer. 
 - 💞️ I’m looking to collaborate on research projects.
 - 📫 You can reach out to me at gupta4a@cmich.edu. 
 
